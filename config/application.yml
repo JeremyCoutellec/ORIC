@@ -1,0 +1,9 @@
+DATABASE_URL: postgres://decidim_dev:ORIC020@localhost/oric_db
+
+SECRET_KEY_BASE: b2bb2fc5e054e28ae1414836c8bc641b25f4c5657f7073f01f9a1b51b657005c21158bffd1dcf02b68236a8d062bce23af8ecdea82060ab6dd2cd480e21dcaba
+
+SMTP_USERNAME: jeremy.coutellec@gmail.com
+SMTP_PASSWORD: llxpfglexokrmszz
+SMTP_ADDRESS: smtp.gmail.com
+SMTP_DOMAIN: gmail.com
+
